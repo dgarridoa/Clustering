@@ -1,4 +1,3 @@
 # Clustering
 
-
-Tutorial sobre Clustering. Para una mejor renderización del notebook visitar el siguiente <a href="https://nbviewer.jupyter.org/github/dgarridoa/Clustering/blob/main/Clustering.ipynb">link</a>.
+El presente repositorio contiene un tutorial sobre clustering y un laboratorio para evaluar los contenidos relacionados.Para una mejor renderización del notebook del tutorial visitar el siguiente <a href="https://nbviewer.jupyter.org/github/dgarridoa/Clustering/blob/main/Tutorial_Clustering.ipynb">link</a>.
